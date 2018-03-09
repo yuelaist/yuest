@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.6/junit-4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar" sourcepath="/JSOUP_SOURCE"/>
+	<classpathentry kind="var" path="M2_REPO/com/microsoft/sqlserver/mssql-jdbc/6.2.2.jre7/mssql-jdbc-6.2.2.jre7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/postgresql/postgresql/42.1.4.jre7/postgresql-42.1.4.jre7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ojdbc/ojdbc/14/ojdbc-14.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/jsoup-1.11.2-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
